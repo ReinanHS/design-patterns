@@ -2,8 +2,8 @@
   <img height="200" img src="https://hsto.org/webt/ge/p_/wt/gep_wtzzqsuzmaajwzenpuxffsm.png"/>
 </p>
 
-| [Ementa] | [Bibliografia] | [Listas] | [Material Complementar] |
-|----------|----------------|----------|-------------------------|
+| [Ementa] | [Bibliografia Básica] | [Listas] | [Material Complementar] |
+|----------|-----------------------|----------|-------------------------|
 
 | Curso               | Bacharelado de Sistemas de Informação \- Lagarto |               |     |
 |---------------------|--------------------------------------------------|---------------|-----|
@@ -42,6 +42,11 @@ Conceito de padrão de projeto. Padrões de projeto: classificação e utilizaç
 - Um vídeo do Youtube que auxilia o entendimento [Vídeo](https://www.youtube.com/watch?v=sUyTKDHGCtA)
 - Uma apostila com uma breve introdução aos conceitos iniciais sobre padrões de projetos [Vídeo](https://sites.icmc.usp.br/rtvb/apostila.pdf)
 
+## Listas
+
+- 📃 Padrões de Projeto – Factory Method;
+- 📃 Padrões de Projeto – Abstract Factory;
+
 ## Bibliografia Básica
 
 - GUERRA, Eduardo. Design Patterns com Java: Projeto orientado a objetos guiado por padrões. 1ª Ed. São Paulo: Casa do Código, 2013. ISBN 978-85-66250-11-4
@@ -56,5 +61,6 @@ Conceito de padrão de projeto. Padrões de projeto: classificação e utilizaç
 - LAZZERI, José Carlos. Arquitetura Orientada a Serviços: Fundamentos e Estratégias. 1ª Ed. Ciência Moderna, 2009. ISBN8573938668
 
 [Ementa]: #ementa
+[Listas]: #listas
 [Material Complementar]: #material-complementar
-[Bibliografia]: #bibliografia-bsica
+[Bibliografia Básica]: #bibliografia-básica
