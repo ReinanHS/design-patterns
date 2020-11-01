@@ -10,4 +10,9 @@ public class FabricaFord implements FabricaDeCarro {
     public Carro CriarCarro() {
         return new Fiesta();
     }
+
+    @Override
+    public String toString() {
+        return "Fábrica da Ford";
+    }
 }

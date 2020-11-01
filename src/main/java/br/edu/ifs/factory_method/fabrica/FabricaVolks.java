@@ -10,4 +10,9 @@ public class FabricaVolks implements FabricaDeCarro {
     public Carro CriarCarro() {
         return new Gol();
     }
+
+    @Override
+    public String toString() {
+        return "Fábrica da Volks";
+    }
 }

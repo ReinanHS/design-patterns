@@ -10,4 +10,9 @@ public class FabricaChevrolet implements FabricaDeCarro {
     public Carro CriarCarro() {
         return new Celta();
     }
+
+    @Override
+    public String toString() {
+        return "Fábrica da Chevrolet";
+    }
 }

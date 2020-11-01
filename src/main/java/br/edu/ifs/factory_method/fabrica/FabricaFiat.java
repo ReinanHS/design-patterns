@@ -10,4 +10,9 @@ public class FabricaFiat implements FabricaDeCarro {
     public Carro CriarCarro() {
         return new Palio();
     }
+
+    @Override
+    public String toString() {
+        return "Fábrica da Fiat";
+    }
 }
