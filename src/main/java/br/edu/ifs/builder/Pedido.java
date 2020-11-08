@@ -7,12 +7,10 @@ public class Pedido {
     private Set<String> dentroDaCaixa = new HashSet<String>();
     private Set<String> foraDaCaixa = new HashSet<String>();
 
-    public void adicionarDentroDaCaixa(String item){
-        dentroDaCaixa.add(item);
-    }
+    public void adicionarDentroDaCaixa(String item){ dentroDaCaixa.add(item); }
 
     public void adicionarForaDaCaixa(String item){
-        dentroDaCaixa.add(item);
+        foraDaCaixa.add(item);
     }
 
     @Override
