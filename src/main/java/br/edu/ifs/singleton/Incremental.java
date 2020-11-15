@@ -1,11 +1,17 @@
 package br.edu.ifs.singleton;
 
 public class Incremental {
-    private static int count = 0;
+    private static Integer count = null;
     private int numero;
 
-    public Incremental() {
-        this.numero = ++count;
+    private Incremental() { }
+
+    public static Integer getnstance(){
+        if(count == null){
+            count = new Integer(0);
+        }
+
+        return count++;
     }
 
     @Override
