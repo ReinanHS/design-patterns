@@ -1,0 +1,1 @@
+CREATE TABLE `meubanco`.`candidados` ( `id` INT(11) NOT NULL AUTO_INCREMENT , `nome` VARCHAR(50) NOT NULL , `numero` VARCHAR(2) NOT NULL , PRIMARY KEY (`id`)) ENGINE = MyISAM;

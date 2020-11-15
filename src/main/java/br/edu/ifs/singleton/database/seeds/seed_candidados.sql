@@ -1,0 +1,1 @@
+INSERT INTO `candidados` (`id`, `nome`, `numero`) VALUES (NULL, 'EDVALDO', '12'), (NULL, 'JURACI NUNES', '35'), (NULL, 'RODRIGO VALADARES', '14'), (NULL, 'DELEGADO PAULO MARCIO', '27')
